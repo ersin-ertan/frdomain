@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.arrow-kt:arrow-annotations:0.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/gradle/4.4.1/caches/modules-2/files-2.1/io.arrow-kt/arrow-annotations/0.6.0/482158a7e26f7caedbf37855f6c7454ad7056ad3/arrow-annotations-0.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.sdkman/candidates/gradle/4.4.1/caches/modules-2/files-2.1/io.arrow-kt/arrow-annotations/0.6.0/301d4d07e0fcba237407c9aa67e7749788a65756/arrow-annotations-0.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
