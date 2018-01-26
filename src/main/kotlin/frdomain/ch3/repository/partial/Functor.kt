@@ -1,6 +1,6 @@
 package frdomain.ch3.repository.partial
 
-// Todo kotlinify
+// Todo Will use Arrows implementation
 
 //interface Functor<F<_>> {
 //

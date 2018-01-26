@@ -1,6 +1,6 @@
 package frdomain.ch3.repository.partial
 
-// Todo kotlinify
+// Todo Will use Arrows implementation
 
 //trait Monad[F[_]] extends Functor[F] {
 //    def unit[A](a: => A): F[A]
